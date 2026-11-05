@@ -1,11 +1,17 @@
-# AgentAppStudio — Web, Mobile & Agentic AI Studio
-
 <div align="center">
 
+<a href="https://agentappstudio.com">
+  <img src="https://raw.githubusercontent.com/AgentAppStudio/.github/main/assets/logo.png" alt="AgentAppStudio Logo" width="120" />
+</a>
+
+# AgentAppStudio
+### *Web, Mobile & AI Apps for Founders Who Ship*
+
 [![Website](https://img.shields.io/badge/Website-agentappstudio.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agentappstudio.com)
-[![Founder](https://img.shields.io/badge/Founder-Nguyen_Thanh_Tuan%2C_PhD-1F2937?style=for-the-badge&logo=github)](https://github.com/tuannguyenvku)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_·_Capacitor_·_MCP-10B981?style=for-the-badge)](https://agentappstudio.com)
-[![Status](https://img.shields.io/badge/Status-Active_Building-3B82F6?style=for-the-badge)](https://agentappstudio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AgentAppStudio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/agentappstudio)
+[![X / Twitter](https://img.shields.io/badge/X-@agentappstudio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/agentappstudio)
+[![Facebook](https://img.shields.io/badge/Facebook-agentappstudio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/agentappstudio)
+[![YouTube](https://img.shields.io/badge/YouTube-@agentappstudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@agentappstudio)
 
 <br/>
 
@@ -51,15 +57,18 @@ This organization hosts public templates, architectural patterns, and reusable t
 
 ---
 
-## 🤝 Work With Us
+## 🌐 Official Channels & Connect
 
-Looking to ship a prototype, SaaS MVP, or integrate agentic AI into your stack?
-
-- **Website**: [agentappstudio.com](https://agentappstudio.com)
-- **Studio Lead**: [Nguyen Thanh Tuan, PhD](https://tuannguyen.dev) ([@tuannguyenvku](https://github.com/tuannguyenvku))
-- **Email**: [contact@tuannguyen.dev](mailto:contact@tuannguyen.dev)
+| Channel | Link | Handle / Note |
+|---|---|---|
+| 🌐 **Website** | [agentappstudio.com](https://agentappstudio.com) | Official portfolio & services |
+| 💼 **LinkedIn** | [linkedin.com/company/agentappstudio](https://linkedin.com/company/agentappstudio) | Studio updates & technical breakdowns |
+| 🐦 **X (Twitter)** | [x.com/agentappstudio](https://x.com/agentappstudio) | `@agentappstudio` — Launches & engineering tips |
+| 📘 **Facebook** | [facebook.com/agentappstudio](https://facebook.com/agentappstudio) | Tech community & product releases |
+| 📺 **YouTube** | [youtube.com/@agentappstudio](https://youtube.com/@agentappstudio) | App breakdowns & architecture walk-throughs |
+| ✉️ **Inquiries** | [contact@tuannguyen.dev](mailto:contact@tuannguyen.dev) | Project proposals & partnerships |
 
 ---
 <div align="center">
-  <sub>© 2026 AgentAppStudio. Code artifacts released under the MIT License.</sub>
+  <sub>© 2026 AgentAppStudio. Studio Lead: <a href="https://tuannguyen.dev">Nguyen Thanh Tuan, PhD</a>. Released under the MIT License.</sub>
 </div>
