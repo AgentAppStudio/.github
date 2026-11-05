@@ -27,15 +27,9 @@
 
 Most studios do one thing. We pick the right surface for the problem — and articulate the tradeoffs upfront before you commit to a costly rewrite:
 
-```
-  ┌───────────────────────┐   ┌───────────────────────┐   ┌───────────────────────┐
-  │      Web & SaaS       │   │  Cross-Platform Apps  │   │     Agentic AI        │
-  │                       │   │                       │   │                       │
-  │ • Next.js 15 / React  │   │ • Capacitor (PWA+App) │   │ • Custom MCP Servers  │
-  │ • Tailwind / UI/UX    │   │ • Flutter for High UI │   │ • LLM Tool Chains     │
-  │ • Serverless / Edge   │   │ • iOS & Android Store │   │ • Agent Workflows     │
-  └───────────────────────┘   └───────────────────────┘   └───────────────────────┘
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgentAppStudio/.github/main/assets/three-surfaces.png" alt="Three Surfaces: Web & SaaS, Cross-Platform Apps, Agentic AI" width="100%" />
+</p>
 
 ### 1. Production Web Apps & SaaS
 Clean, high-performance dashboards, platforms, and SaaS products built with Next.js, TypeScript, and modern headless architectures.
