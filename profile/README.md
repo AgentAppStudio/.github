@@ -1,11 +1,8 @@
 <div align="center">
 
 <a href="https://agentappstudio.com">
-  <img src="https://raw.githubusercontent.com/AgentAppStudio/.github/main/assets/logo.png" alt="AgentAppStudio Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/AgentAppStudio/.github/main/assets/banner.jpg" alt="AgentAppStudio" width="100%" />
 </a>
-
-# AgentAppStudio
-### *Web, Mobile & AI Apps for Founders Who Ship*
 
 [![Website](https://img.shields.io/badge/Website-agentappstudio.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agentappstudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AgentAppStudio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/agentappstudio)
@@ -24,6 +21,9 @@
 ---
 
 ## 🎯 Three Surfaces
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/AgentAppStudio/.github/main/assets/illustration-surfaces.jpg" alt="Three surfaces: web, mobile and agentic AI" width="90%" /></p>
 
 Most studios do one thing. We pick the right surface for the problem — and articulate the tradeoffs upfront before you commit to a costly rewrite:
 
